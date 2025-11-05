@@ -59,11 +59,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Documentatioddddsdfasdfasdf
-            
-            dddddgit commit -m '.'
-            git push
-            n Error fff
+            Nbil Feed's footer
           </a>
         </div>
       </main>

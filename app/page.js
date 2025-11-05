@@ -59,7 +59,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Documentation
+            Documentation Error fff
           </a>
         </div>
       </main>

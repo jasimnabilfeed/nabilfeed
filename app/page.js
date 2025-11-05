@@ -4,6 +4,7 @@ import styles from "./page.module.css";
 export default function Home() {
   return (
     <div className={styles.page}>
+      <h3>Welcome To Nabil Feed Mills Limited.</h3>
       <main className={styles.main}>
         <Image
           className={styles.logo}

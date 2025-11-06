@@ -20,6 +20,17 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={`${geistSans.variable} ${geistMono.variable}`}>
+        import Link from "next/link";
+
+export default function HomePage() {
+  return (
+    <div>
+      <h1>Home</h1>
+      <Link href="/about">Go to About Page</Link>
+    </div>
+  );
+}
+
         {children}
       </body>
     </html>

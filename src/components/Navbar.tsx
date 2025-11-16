@@ -14,13 +14,12 @@ export default function Navbar() {
                 <div>
                     <Link href="/">
                         <Image
-                            src="/images/nabilfeedlogo.jpg"
+                            src="/nabilfeedlogo.jpg"
                             alt="Nabil Feed Logo"
                             width={150}       // specify width
                             height={150}       // specify height
                             priority          // optional: loads image faster
                         />
-                        <h1 className="text-xl font-bold">Company</h1>
                     </Link>
                 </div>
 

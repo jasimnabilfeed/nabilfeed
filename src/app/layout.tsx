@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
@@ -8,6 +7,10 @@ import Footer from "@/components/Footer";
 export const metadata: Metadata = {
   title: "Navel Feed Mills",
   description: "Created by AI",
+  icons: {
+    icon: "/favicon.png",          // default favicon
+    apple: "/favicon.png", // optional for iOS
+  },
 };
 
 export default function RootLayout({
@@ -17,6 +20,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+
       <body className="bg-gray-50">
         <Navbar />
         <main className="container mx-auto py-10">{children}</main>

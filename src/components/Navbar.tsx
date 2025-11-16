@@ -8,11 +8,11 @@ export default function Navbar() {
                 <ul className="flex gap-6 font-medium">
                     <li><Link href="/">Home</Link></li>
                     <li><Link href="/products">Products</Link></li>
-                    <li><Link href="/team">Our Team</Link></li>
+                    <li><Link href="/teams">Our Team</Link></li>
                     <li><Link href="/gallery">Gallery</Link></li>
                     <li><Link href="/mission-vision">Mission & Vision</Link></li>
-                    <li><Link href="/career">Career</Link></li>
-                    <li><Link href="/contact">Contact Us</Link></li>
+                    <li><Link href="/careers">Career</Link></li>
+                    <li><Link href="/contact-us">Contact Us</Link></li>
                 </ul>
             </div>
         </nav>

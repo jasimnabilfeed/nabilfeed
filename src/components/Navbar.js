@@ -17,7 +17,7 @@ export default function Navbar() {
                             src="/nabilfeednobg.png"
                             alt="Nabil Feed Logo"
                             width={150}       // specify width
-                            height={150}       // specify height
+                            height={150}
                             priority          // optional: loads image faster
                         />
                     </Link>

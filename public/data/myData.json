@@ -1,0 +1,953 @@
+{
+  "Head_Office": {
+    "Office": {
+      "office": [
+        {
+          "SL": 1,
+          "NameinSoftware": "MD JASIM UDDIN",
+          "ID": 1361,
+          "Designation(Ranking)": "11TRAINEE EXECUTIVE",
+          "Department": "SALES OPERATION",
+          "WorkingArea/HQ": "HEAD OFFICE, BONOLOTA",
+          "OfficialNumber": "01332810398",
+          "PersonalNumber": "01827104738",
+          "OfficialEmail": "jasimnabilfeed@ngibd.com",
+          "Email": "",
+          "JoiningDate": "01-Jul-25"
+        },
+        {
+          "SL": 2,
+          "NameinSoftware": "MD. RAIHANUR RAHMAN NAYON",
+          "ID": 1010,
+          "Designation(Ranking)": "10EXECUTIVE",
+          "Department": "ACCOUNTS",
+          "WorkingArea/HQ": "HEAD OFFICE, BONOLOTA",
+          "OfficialNumber": "01332524905",
+          "PersonalNumber": "01987244319",
+          "OfficialEmail": "",
+          "Email": "nayonnabilnfl905@gmail.com",
+          "JoiningDate": "01-Jan-24"
+        },
+        {
+          "SL": 3,
+          "NameinSoftware": "NAZMUL HASAN",
+          "ID": 655,
+          "Designation(Ranking)": "09SR. EXECUTIVE",
+          "Department": "ACCOUNTS",
+          "WorkingArea/HQ": "HEAD OFFICE, BONOLOTA",
+          "OfficialNumber": "01324259317",
+          "PersonalNumber": "01717145709",
+          "OfficialEmail": "",
+          "Email": "nazmul655@gmail.com",
+          "JoiningDate": ""
+        },
+        {
+          "SL": 4,
+          "NameinSoftware": "MIZANUR RAHMAN",
+          "ID": 554,
+          "Designation(Ranking)": "09SR. EXECUTIVE",
+          "Department": "ACCOUNTS",
+          "WorkingArea/HQ": "HEAD OFFICE, BONOLOTA",
+          "OfficialNumber": "01733309731",
+          "PersonalNumber": "01735213032",
+          "OfficialEmail": "mizanurrahman.feed@ngibd.com",
+          "Email": "",
+          "JoiningDate": ""
+        },
+        {
+          "SL": 5,
+          "NameinSoftware": "MD.NURUL MOMEN",
+          "ID": 673,
+          "Designation(Ranking)": "08ASSISTANT MANAGER",
+          "Department": "SALES OPERATION",
+          "WorkingArea/HQ": "HEAD OFFICE, BONOLOTA",
+          "OfficialNumber": "01324259321",
+          "PersonalNumber": "01722186575",
+          "OfficialEmail": "momen@ngibd.com",
+          "Email": "",
+          "JoiningDate": ""
+        },
+        {
+          "SL": 6,
+          "NameinSoftware": "MD. BELAL HOSSAIN",
+          "ID": 359,
+          "Designation(Ranking)": "06DEPUTY MANAGER",
+          "Department": "ACCOUNTS",
+          "WorkingArea/HQ": "HEAD OFFICE, BONOLOTA",
+          "OfficialNumber": "01709950082",
+          "PersonalNumber": "01710646446",
+          "OfficialEmail": "belal@ngibd.com",
+          "Email": "",
+          "JoiningDate": ""
+        },
+        {
+          "SL": 7,
+          "NameinSoftware": "DR. MD SANOWAR HOSSAIN",
+          "ID": 1308,
+          "Designation(Ranking)": "01HEAD OF BUSINESS",
+          "Department": "HEAD",
+          "WorkingArea/HQ": "CORPORATE OFFICE,DHAKA",
+          "OfficialNumber": "01713093836",
+          "PersonalNumber": "01716742209",
+          "OfficialEmail": "drsanowar@ngibd.com",
+          "Email": "",
+          "JoiningDate": "03-May-25"
+        }
+      ],
+      "depot": [
+        {
+          "SL": 8,
+          "NameinSoftware": "PALASH CHANDRA CHOWKRABARTI",
+          "ID": 1381,
+          "Designation(Ranking)": "10DEPO INCHARGE",
+          "Department": "DEPOT",
+          "WorkingArea/HQ": "CUMILLA",
+          "OfficialNumber": "01335125816",
+          "PersonalNumber": "01870361659",
+          "OfficialEmail": "",
+          "Email": "palashjuly18@gamil.com",
+          "JoiningDate": "04-Aug-25"
+        },
+        {
+          "SL": 9,
+          "NameinSoftware": "A.B.M REZAUL ISLAM",
+          "ID": 641,
+          "Designation(Ranking)": "10DEPO INCHARGE",
+          "Department": "DEPOT",
+          "WorkingArea/HQ": "MYMENSINGH",
+          "OfficialNumber": "01324259279",
+          "PersonalNumber": "01881220022",
+          "OfficialEmail": "",
+          "Email": "razarenata016118777899@gmail.com",
+          "JoiningDate": "07-May-25"
+        }
+      ]
+    }
+  },
+  "North_Zone": {
+    "Raj-West": {
+      "wst": [
+        {
+          "SL": 1,
+          "NameinSoftware": "MD. SOLAIMAN ALI",
+          "ID": 1264,
+          "Designation(Ranking)": "09TERRITORY MANAGER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "NAOGAON",
+          "OfficialNumber": "01332810320",
+          "PersonalNumber": "01719034848",
+          "OfficialEmail": "",
+          "Email": "solaimansolaiman034848@gmail.com",
+          "JoiningDate": "01-Feb-25"
+        },
+        {
+          "SL": 2,
+          "NameinSoftware": "MD. JUWEL RANA",
+          "ID": 518,
+          "Designation(Ranking)": "09TERRITORY MANAGER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "CHAPAI",
+          "OfficialNumber": "01324259260",
+          "PersonalNumber": "01798704749",
+          "OfficialEmail": "",
+          "Email": "juwelrana14871@gamil.com",
+          "JoiningDate": "01-Jul-21"
+        },
+        {
+          "SL": 3,
+          "NameinSoftware": "MD. SOHEL RANA",
+          "ID": 461,
+          "Designation(Ranking)": "07AREA SALES MANAGER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "BAGMARA, MOHONPUR",
+          "OfficialNumber": "01733309575",
+          "PersonalNumber": "01738238306",
+          "OfficialEmail": "",
+          "Email": "asohelrana80@gmail.com",
+          "JoiningDate": "02-Feb-21"
+        },
+        {
+          "SL": 4,
+          "NameinSoftware": "MD. ASADUZZAMAN KHOKAN",
+          "ID": 701,
+          "Designation(Ranking)": "09SR. OFFICER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "POBA",
+          "OfficialNumber": "01733309578",
+          "PersonalNumber": "01712279053",
+          "OfficialEmail": "",
+          "Email": "jplplasticbd@gmail.com",
+          "JoiningDate": "08-Aug-22"
+        },
+        {
+          "SL": 5,
+          "NameinSoftware": "FIDA HOSSAIN",
+          "ID": 504,
+          "Designation(Ranking)": "05MANAGER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "RAJSHAHI-WEST",
+          "OfficialNumber": "01733309751",
+          "PersonalNumber": "01734112501",
+          "OfficialEmail": "",
+          "Email": "rmzisraj@gmail.com",
+          "JoiningDate": "01-Jun-21"
+        }
+      ]
+    },
+    "Raj-East": {
+      "ARS": [
+        {
+          "SL": 6,
+          "NameinSoftware": "MD. SHAHIN ALI",
+          "ID": 1283,
+          "Designation(Ranking)": "09TERRITORY MANAGER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "JOYPURHAT",
+          "OfficialNumber": "01332810321",
+          "PersonalNumber": "01731348610",
+          "OfficialEmail": "",
+          "Email": "mdshahin316996@gmail.com",
+          "JoiningDate": "02-Mar-25"
+        },
+        {
+          "SL": 7,
+          "NameinSoftware": "MD. RABIUL ISLAM",
+          "ID": 1418,
+          "Designation(Ranking)": "09TERRITORY MANAGER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "BOGURA",
+          "OfficialNumber": "01332810257",
+          "PersonalNumber": "01831991291",
+          "OfficialEmail": "",
+          "Email": "mnrobiul678@gmail.com",
+          "JoiningDate": "01-Sep-25"
+        },
+        {
+          "SL": 8,
+          "NameinSoftware": "DIPU CHONDRO ROY",
+          "ID": 1066,
+          "Designation(Ranking)": "09MARKETING OFFICER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "SHERPUR",
+          "OfficialNumber": "01324259384",
+          "PersonalNumber": "01765653275",
+          "OfficialEmail": "",
+          "Email": "dipuroyhstu.1998@gmail.com",
+          "JoiningDate": "15-May-25"
+        },
+        {
+          "SL": 9,
+          "NameinSoftware": "KBD. MD. ARSHAD ALI MONDOL",
+          "ID": 1382,
+          "Designation(Ranking)": "06DEPUTY MANAGER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "BOGURA",
+          "OfficialNumber": "01335125825",
+          "PersonalNumber": "01751022059",
+          "OfficialEmail": "",
+          "Email": "ershad304@gmail.com",
+          "JoiningDate": "06-Aug-25"
+        }
+      ],
+      "MNK": [
+        {
+          "SL": 10,
+          "NameinSoftware": "MD. NURUL ISLAM",
+          "ID": 1341,
+          "Designation(Ranking)": "09TERRITORY MANAGER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "SIRAJGONJ-2,SOLONGA",
+          "OfficialNumber": "01332810370",
+          "PersonalNumber": "01987337532",
+          "OfficialEmail": "",
+          "Email": "uzzal22671823@gmail.com",
+          "JoiningDate": "15-Jun-25"
+        },
+        {
+          "SL": 11,
+          "NameinSoftware": "MD. JOHURUL ISLAM",
+          "ID": 1343,
+          "Designation(Ranking)": "09TERRITORY MANAGER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "PABNA",
+          "OfficialNumber": "01332810362",
+          "PersonalNumber": "01744170797",
+          "OfficialEmail": "",
+          "Email": "ijohurul241@gmail.com",
+          "JoiningDate": "15-Jun-25"
+        },
+        {
+          "SL": 12,
+          "NameinSoftware": "MD. MANIK MIAH",
+          "ID": 1394,
+          "Designation(Ranking)": "06DEPUTY MANAGER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "PABNA + SIRAJGONJ",
+          "OfficialNumber": "01324259338",
+          "PersonalNumber": "01762382033",
+          "OfficialEmail": "",
+          "Email": "manik9053@gmail.com",
+          "JoiningDate": "24-Aug-25"
+        }
+      ],
+      "SEPA": [
+        {
+          "SL": 13,
+          "NameinSoftware": "MD. RAIHAN ALI",
+          "ID": 465,
+          "Designation(Ranking)": "07AREA SALES MANAGER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "NATORE & GURUDASPUR",
+          "OfficialNumber": "01733309620",
+          "PersonalNumber": "01796084425",
+          "OfficialEmail": "",
+          "Email": "rayhanvoltex762@gmail",
+          "JoiningDate": "02-Feb-21"
+        }
+      ],
+      "FULR.E": [
+        {
+          "SL": 14,
+          "NameinSoftware": "SHAHANUR ALOM",
+          "ID": 615,
+          "Designation(Ranking)": "03AGM",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "RAJSHAHI EAST",
+          "OfficialNumber": "01324259273",
+          "PersonalNumber": "01712218802",
+          "OfficialEmail": "",
+          "Email": "shahanuralam32@gmail.com",
+          "JoiningDate": "03-Feb-25"
+        }
+      ]
+    },
+    "Rangpur": {
+      "Rng-sador": [
+        {
+          "SL": 15,
+          "NameinSoftware": "MD. RUBEL MIA",
+          "ID": 1342,
+          "Designation(Ranking)": "09TERRITORY MANAGER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "GAIBANDHA SADAR",
+          "OfficialNumber": "01332810363",
+          "PersonalNumber": "01719172087",
+          "OfficialEmail": "",
+          "Email": "rubelkhan690@gmail.com",
+          "JoiningDate": "15-Jun-25"
+        },
+        {
+          "SL": 16,
+          "NameinSoftware": "MD. SAYED ALI",
+          "ID": 1416,
+          "Designation(Ranking)": "09TERRITORY MANAGER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "RANGPUR",
+          "OfficialNumber": "01335125836",
+          "PersonalNumber": "01722613763",
+          "OfficialEmail": "",
+          "Email": "shahed763alli@gmail.com",
+          "JoiningDate": "01-Sep-25"
+        },
+        {
+          "SL": 17,
+          "NameinSoftware": "MD. JUWEL MIAH",
+          "ID": 1065,
+          "Designation(Ranking)": "09MARKETING OFFICER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "GAIBANDHA-2,SADULLAPUR",
+          "OfficialNumber": "01733309737",
+          "PersonalNumber": "01712776717",
+          "OfficialEmail": "",
+          "Email": "rubelkhan690@gmail.com",
+          "JoiningDate": "15-Jun-25"
+        },
+        {
+          "SL": 18,
+          "NameinSoftware": "MD. JAMIL AKTAR",
+          "ID": 514,
+          "Designation(Ranking)": "07AREA SALES MAMANGER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "RANGPUR",
+          "OfficialNumber": "01324259263",
+          "PersonalNumber": "01744857949",
+          "OfficialEmail": "",
+          "Email": "jamilaktar1987@gmail.com",
+          "JoiningDate": "01-Jun-21"
+        }
+      ],
+      "-dinaj": [
+        {
+          "SL": 19,
+          "NameinSoftware": "MD. NASIM MOLLA",
+          "ID": 1344,
+          "Designation(Ranking)": "09TERRITORY MANAGER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "DINAJPUR- PARBOTIPUR",
+          "OfficialNumber": "01332810364",
+          "PersonalNumber": "01755368385",
+          "OfficialEmail": "",
+          "Email": "mollahnasim5768@gmail.com",
+          "JoiningDate": "15-Jun-25"
+        },
+        {
+          "SL": 20,
+          "NameinSoftware": "MD. JAHID",
+          "ID": 1276,
+          "Designation(Ranking)": "09TERRITORY MANAGER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "THAKURGAON",
+          "OfficialNumber": "01332810317",
+          "PersonalNumber": "01719165185",
+          "OfficialEmail": "",
+          "Email": "jahid.mbd@gmail.com",
+          "JoiningDate": "01-Mar-25"
+        },
+        {
+          "SL": 21,
+          "NameinSoftware": "MD. SHAHARIA ZIM",
+          "ID": 1339,
+          "Designation(Ranking)": "09TERRITORY MANAGER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "DINAJPUR- FULBARI",
+          "OfficialNumber": "01332810351",
+          "PersonalNumber": "01750666343",
+          "OfficialEmail": "",
+          "Email": "zimshahria@gmail.com",
+          "JoiningDate": "15-Jun-25"
+        },
+        {
+          "SL": 22,
+          "NameinSoftware": "MD. PARVEZ RANA",
+          "ID": 1288,
+          "Designation(Ranking)": "07RSM",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "DINAJPUR",
+          "OfficialNumber": "01709950094",
+          "PersonalNumber": "01717405440",
+          "OfficialEmail": "",
+          "Email": "parvazrana1994@gmail.com",
+          "JoiningDate": "03-May-25"
+        }
+      ],
+      "Kuri": [
+        {
+          "SL": 23,
+          "NameinSoftware": "MD. SHOHEL RANA",
+          "ID": 1313,
+          "Designation(Ranking)": "09TERRITORY MANAGER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "LALMONIRHAT",
+          "OfficialNumber": "01332810336",
+          "PersonalNumber": "01740152051",
+          "OfficialEmail": "",
+          "Email": "shohel45555@gmail.com",
+          "JoiningDate": "10-May-25"
+        },
+        {
+          "SL": 24,
+          "NameinSoftware": "MD. MAHMUDUL HASAN",
+          "ID": 1314,
+          "Designation(Ranking)": "09SR. OFFICER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "KURIGRAM (SADOR)",
+          "OfficialNumber": "01332810337",
+          "PersonalNumber": "01787914556",
+          "OfficialEmail": "",
+          "Email": "mahmudulshamim556@gmail.com",
+          "JoiningDate": "10-May-25"
+        },
+        {
+          "SL": 25,
+          "NameinSoftware": "MD. AKTARUSZZAMAN",
+          "ID": 467,
+          "Designation(Ranking)": "07AREA SALES MANAGER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "KURIGRAM",
+          "OfficialNumber": "01733309580",
+          "PersonalNumber": "01724668320",
+          "OfficialEmail": "",
+          "Email": "aktarforhad1985@gmail.com",
+          "JoiningDate": "16-Feb-21"
+        }
+      ],
+      "Uthan": [
+        {
+          "SL": 26,
+          "NameinSoftware": "MOST. LABONI AKTER",
+          "ID": 763,
+          "Designation(Ranking)": "09OFFICER",
+          "Department": "UTHAN BOITHOK",
+          "WorkingArea/HQ": "RANGPUR",
+          "OfficialNumber": "01324259371",
+          "PersonalNumber": "01933915216",
+          "OfficialEmail": "",
+          "Email": "ripakhondokar98@gmail.com",
+          "JoiningDate": "01-Nov-22"
+        }
+      ],
+      "Nrt": [
+        {
+          "SL": 27,
+          "NameinSoftware": "DR. MD. NUR ALOM",
+          "ID": 1445,
+          "Designation(Ranking)": "05MANAGER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "RANGPUR",
+          "OfficialNumber": "01324259207",
+          "PersonalNumber": "01736150545",
+          "OfficialEmail": "",
+          "Email": "nuralomvet@gmail.com",
+          "JoiningDate": "16-Oct-25"
+        }
+      ]
+    }
+  },
+  "South_Zone": {
+    "Khulna": {
+      "Khulna": [
+        {
+          "SL": 28,
+          "NameinSoftware": "MD. ABDUL LOTIF",
+          "ID": 1340,
+          "Designation(Ranking)": "09TERRITORY MANAGER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "JASHORE-2",
+          "OfficialNumber": "01335125826",
+          "PersonalNumber": "01752444323",
+          "OfficialEmail": "",
+          "Email": "abdullatif52444@gmail.com",
+          "JoiningDate": "15-Jun-25"
+        },
+        {
+          "SL": 29,
+          "NameinSoftware": "SOURAV KUMAR ASH",
+          "ID": 1230,
+          "Designation(Ranking)": "09TERRITORY MANAGER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "SATKHIRA",
+          "OfficialNumber": "01332810247",
+          "PersonalNumber": "01778698949",
+          "OfficialEmail": "",
+          "Email": "souravash11@gmail.com",
+          "JoiningDate": "01-Dec-24"
+        },
+        {
+          "SL": 30,
+          "NameinSoftware": "DIPTO KUMAR BISWAS",
+          "ID": 1237,
+          "Designation(Ranking)": "09TERRITORY MANAGER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "CHUADANGA, MEHERPUR",
+          "OfficialNumber": "01332810253",
+          "PersonalNumber": "01738369697",
+          "OfficialEmail": "",
+          "Email": "diptokumar401@gmail.com",
+          "JoiningDate": "05-Dec-24"
+        },
+        {
+          "SL": 31,
+          "NameinSoftware": "MD. SHIMUL HOSSEN",
+          "ID": 602,
+          "Designation(Ranking)": "09SR. TERRITORY MANAGER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "JENAIDHO",
+          "OfficialNumber": "01324259267",
+          "PersonalNumber": "01923400276",
+          "OfficialEmail": "",
+          "Email": "shimulhossen342@gmail.com",
+          "JoiningDate": "02-Dec-21"
+        },
+        {
+          "SL": 32,
+          "NameinSoftware": "TOUHIDUL ISLAM",
+          "ID": 601,
+          "Designation(Ranking)": "07AREA SALES MANAGER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "KHULNA",
+          "OfficialNumber": "01324259268",
+          "PersonalNumber": "01916168815",
+          "OfficialEmail": "",
+          "Email": "itouhid8815@gmail.com",
+          "JoiningDate": "02-Dec-21"
+        },
+        {
+          "SL": 33,
+          "NameinSoftware": "DR. MD. SHORIOTULLAH",
+          "ID": 1437,
+          "Designation(Ranking)": "08ASSISTANT MANAGER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "KUSTIA",
+          "OfficialNumber": "01335125871",
+          "PersonalNumber": "01741493932",
+          "OfficialEmail": "",
+          "Email": "shoriot90@gmail.com",
+          "JoiningDate": "04-Oct-25"
+        },
+        {
+          "SL": 34,
+          "NameinSoftware": "SAJAL KUMAR GHOSH",
+          "ID": 1417,
+          "Designation(Ranking)": "09TERRITORY MANAGER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "GOPALGONJ",
+          "OfficialNumber": "01335125841",
+          "PersonalNumber": "01898580587",
+          "OfficialEmail": "",
+          "Email": "sajolghosh71@gmail.com",
+          "JoiningDate": "01-Sep-25"
+        },
+        {
+          "SL": 35,
+          "NameinSoftware": "MD. ABDUL BARI",
+          "ID": 1338,
+          "Designation(Ranking)": "05MANAGER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "JASHORE-1",
+          "OfficialNumber": "01332810360",
+          "PersonalNumber": "01754696870",
+          "OfficialEmail": "",
+          "Email": "sumonadnan2@gmail.com",
+          "JoiningDate": "15-Jun-25"
+        }
+      ]
+    },
+    "Farid": {
+      "Farid": [
+        {
+          "SL": 36,
+          "NameinSoftware": "MD. SAMIM HOSSAIN",
+          "ID": 1265,
+          "Designation(Ranking)": "09TERRITORY MANAGER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "RAJBARI",
+          "OfficialNumber": "01324259331",
+          "PersonalNumber": "01719606973",
+          "OfficialEmail": "",
+          "Email": "shamimsarder1986lammim@gmail.com",
+          "JoiningDate": "01-Feb-25"
+        },
+        {
+          "SL": 37,
+          "NameinSoftware": "MD. ASHRAF ALI",
+          "ID": 1267,
+          "Designation(Ranking)": "09TERRITORY MANAGER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "MADARIPUR",
+          "OfficialNumber": "01332810301",
+          "PersonalNumber": "01990609864",
+          "OfficialEmail": "",
+          "Email": "aliashraf00446@gmail.com",
+          "JoiningDate": "02-Feb-25"
+        },
+        {
+          "SL": 38,
+          "NameinSoftware": "MD. MOKLESUR RAHMAN",
+          "ID": 1443,
+          "Designation(Ranking)": "05MANAGER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "MADARIPUR",
+          "OfficialNumber": "01335125880",
+          "PersonalNumber": "01985126263",
+          "OfficialEmail": "",
+          "Email": "sidratulrahman150@gmail.com",
+          "JoiningDate": "13-Oct-25"
+        }
+      ]
+    },
+    "Sth": {
+      "Sth": [
+        {
+          "SL": 39,
+          "NameinSoftware": "MD. FARUK AKTHER",
+          "ID": 1455,
+          "Designation(Ranking)": "02DGM",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "Khul, Bari, Fari",
+          "OfficialNumber": "01335168711",
+          "PersonalNumber": "01716934303",
+          "OfficialEmail": "faruk.akther@ngibd.com",
+          "Email": "farukakther1977@gmail.com",
+          "JoiningDate": "01-Nov-25"
+        }
+      ]
+    }
+  },
+  "Central_Zone": {
+    "Mymensingh": {
+      "MYM": [
+        {
+          "SL": 40,
+          "NameinSoftware": "JAHANGIR ALAM",
+          "ID": 833,
+          "Designation(Ranking)": "09SR. TERRITORY MANAGER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "VALUKA",
+          "OfficialNumber": "01733309676",
+          "PersonalNumber": "01812118711",
+          "OfficialEmail": "",
+          "Email": "jahangirmym66@gmail.com",
+          "JoiningDate": "01-Mar-25"
+        },
+        {
+          "SL": 41,
+          "NameinSoftware": "OSMAN GONI",
+          "ID": 1266,
+          "Designation(Ranking)": "09TERRITORY MANAGER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "SHERPUR",
+          "OfficialNumber": "01332810310",
+          "PersonalNumber": "01949662318",
+          "OfficialEmail": "",
+          "Email": "ganio8014@gmail.com",
+          "JoiningDate": "01-Feb-25"
+        },
+        {
+          "SL": 42,
+          "NameinSoftware": "MD. SADEQUL ISLAM",
+          "ID": 1241,
+          "Designation(Ranking)": "09TERRITORY MANAGER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "JAMALPUR",
+          "OfficialNumber": "01332810261",
+          "PersonalNumber": "01738471351",
+          "OfficialEmail": "",
+          "Email": "sadiqkazi351@gmail.com",
+          "JoiningDate": "01-Jan-25"
+        },
+        {
+          "SL": 43,
+          "NameinSoftware": "MD. JAKIRUL ISLAM",
+          "ID": 1312,
+          "Designation(Ranking)": "09SALES OFFICER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "KURIGRAM (RAJIBPUR)",
+          "OfficialNumber": "01332810335",
+          "PersonalNumber": "01912281599",
+          "OfficialEmail": "",
+          "Email": "jakiruljkkniu1000@gmail.com",
+          "JoiningDate": "10-May-25"
+        },
+        {
+          "SL": 44,
+          "NameinSoftware": "MD. GOLAM KIBRIA",
+          "ID": 1262,
+          "Designation(Ranking)": "07AREA SALES MAMANGER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "Mymensingh",
+          "OfficialNumber": "01332810319",
+          "PersonalNumber": "01737345789",
+          "OfficialEmail": "",
+          "Email": "gknabilgrouptsm899@gmail.com",
+          "JoiningDate": "01-Feb-25"
+        },
+        {
+          "SL": 45,
+          "NameinSoftware": "DR. MD. RAKIBUR RAHMAN",
+          "ID": 1456,
+          "Designation(Ranking)": "04Senior Manager",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "Mymensingh",
+          "OfficialNumber": "01335168710",
+          "PersonalNumber": "01911-249406",
+          "OfficialEmail": "dr.rakibur@ngibd.com",
+          "Email": "vet.rakib@gmail.com",
+          "JoiningDate": "01-Nov-25"
+        }
+      ]
+    },
+    "Gazipur": {
+      "-gaz": [
+        {
+          "SL": 46,
+          "NameinSoftware": "DR. MD. MAHFUZUR RAHMAN",
+          "ID": 1315,
+          "Designation(Ranking)": "03AGM",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "GAZIPUR ZONE",
+          "OfficialNumber": "01332810343",
+          "PersonalNumber": "01304220121",
+          "OfficialEmail": "",
+          "Email": "sourove1@yahoo.com",
+          "JoiningDate": "11-May-25"
+        }
+      ]
+    },
+    "Dhaka": {
+      "-dha": [
+        {
+          "SL": 50,
+          "NameinSoftware": "MD. JAHID HASSAN",
+          "ID": 1457,
+          "Designation(Ranking)": "09Senior Officer",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "NARAYONGONJ",
+          "OfficialNumber": "01335168703",
+          "PersonalNumber": "01751-997982",
+          "OfficialEmail": "jahid.hassan@ngibd.com",
+          "Email": "jahidhassan01738@gmail.com",
+          "JoiningDate": "01-Nov-25"
+        },
+        {
+          "SL": 47,
+          "NameinSoftware": "MD. MAHBUB ALAM",
+          "ID": 1426,
+          "Designation(Ranking)": "09MARKETING OFFICER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "MUNSIGONJ",
+          "OfficialNumber": "01335125862",
+          "PersonalNumber": "01757122756",
+          "OfficialEmail": "",
+          "Email": "mahabubalam017571@gmail.com",
+          "JoiningDate": "08-Sep-25"
+        },
+        {
+          "SL": 48,
+          "NameinSoftware": "MD. SHARIFUL ISLAM",
+          "ID": 1428,
+          "Designation(Ranking)": "09MARKETING OFFICER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "KERANIGONJ",
+          "OfficialNumber": "01335125865",
+          "PersonalNumber": "01832970212",
+          "OfficialEmail": "",
+          "Email": "shariftalukdar12@gmail.com",
+          "JoiningDate": "20-Sep-25"
+        },
+        {
+          "SL": 49,
+          "NameinSoftware": "MD. MUKTER MIA",
+          "ID": 1391,
+          "Designation(Ranking)": "05MANAGER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "NARAYONGONJ",
+          "OfficialNumber": "01335125821",
+          "PersonalNumber": "01882092264",
+          "OfficialEmail": "",
+          "Email": "muktermia@gmail.com",
+          "JoiningDate": "18-Aug-25"
+        }
+      ]
+    },
+    "DHMYMFULL": {
+      "Ctr": [
+        {
+          "SL": 51,
+          "NameinSoftware": "MD. MUSTAFIZUR RAHMAN",
+          "ID": 1421,
+          "Designation(Ranking)": "02DGM",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "DHAKA AND MYM",
+          "OfficialNumber": "01733309621",
+          "PersonalNumber": "01913482739",
+          "OfficialEmail": "mustafizur.rahman@ngibd.com",
+          "Email": "",
+          "JoiningDate": "01-Sep-25"
+        }
+      ]
+    }
+  },
+  "EAST_ZONE": {
+    "EAST_ZONE": {
+      "Ctg": [
+        {
+          "SL": 52,
+          "NameinSoftware": "MD. SAFIKUR RAHMAN",
+          "ID": 638,
+          "Designation(Ranking)": "07AREA SALES MANAGER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "CHATTOGRAM",
+          "OfficialNumber": "01324259277",
+          "PersonalNumber": "01721875202",
+          "OfficialEmail": "",
+          "Email": "shofiknabil786@gmail.com",
+          "JoiningDate": "19-Apr-25"
+        },
+        {
+          "SL": 53,
+          "NameinSoftware": "MD. NURUZZAMAN",
+          "ID": 1436,
+          "Designation(Ranking)": "05MANAGER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "NORTH & SOUTH, CTG",
+          "OfficialNumber": "01335125877",
+          "PersonalNumber": "01812078128",
+          "OfficialEmail": "nuruzzaman@ngibd.com",
+          "Email": "",
+          "JoiningDate": "04-Oct-25"
+        }
+      ],
+      "Cumm": [
+        {
+          "SL": 54,
+          "NameinSoftware": "JUWEL AHMED BHUIYAN",
+          "ID": 1347,
+          "Designation(Ranking)": "06DEPUTY MANAGER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "CUMILLA",
+          "OfficialNumber": "01332810378",
+          "PersonalNumber": "01818535157",
+          "OfficialEmail": "",
+          "Email": "juwel.ahmed5157@gmail.com",
+          "JoiningDate": "01-Jul-25"
+        },
+        {
+          "SL": 55,
+          "NameinSoftware": "MD ABDUL MALEK",
+          "ID": 1040,
+          "Designation(Ranking)": "09TERRITORY OFFICER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "FENI",
+          "OfficialNumber": "01329671850",
+          "PersonalNumber": "01609120017",
+          "OfficialEmail": "",
+          "Email": "mdmalekislam107@gmail.com",
+          "JoiningDate": "10-Feb-24"
+        }
+      ],
+      "Noa": [
+        {
+          "SL": 56,
+          "NameinSoftware": "MD. HABIBUR RAHMAN",
+          "ID": 1337,
+          "Designation(Ranking)": "09SR. TERRITORY MANAGER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "LAXMIPUR",
+          "OfficialNumber": "01332810372",
+          "PersonalNumber": "01855171711",
+          "OfficialEmail": "",
+          "Email": "habiburrahaman799@gmail.com",
+          "JoiningDate": "15-Jun-25"
+        },
+        {
+          "SL": 57,
+          "NameinSoftware": "MD. BELAL HOSSAIN",
+          "ID": 1031,
+          "Designation(Ranking)": "05MANAGER",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "CHADPUR",
+          "OfficialNumber": "01329671857",
+          "PersonalNumber": "01710625828",
+          "OfficialEmail": "",
+          "Email": "belalsheikh728@gmail.com",
+          "JoiningDate": "03-Feb-24"
+        }
+      ],
+      "Est": [
+        {
+          "SL": 58,
+          "NameinSoftware": "GOLAM MOHAMMAD SABU",
+          "ID": 1307,
+          "Designation(Ranking)": "02DGM",
+          "Department": "SALES & MARKETING",
+          "WorkingArea/HQ": "CHATTOGRAM & SYLHET DIVISION",
+          "OfficialNumber": "01332810334",
+          "PersonalNumber": "01715900174",
+          "OfficialEmail": "",
+          "Email": "golammdsabu@gmail.com",
+          "JoiningDate": "03-May-25"
+        }
+      ]
+    }
+  }
+}

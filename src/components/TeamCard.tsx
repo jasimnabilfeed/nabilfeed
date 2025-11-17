@@ -1,13 +1,14 @@
 import Image from "next/image";
 
 // Example usage:
-const team = [
-  { id: 1, name: "John Doe", role: "Manager", image: "/john.jpg" },
-  { id: 2, name: "Sara Ahmed", role: "Sales Executive", image: "/sara.jpg" },
-];
-{/* <TeamCards members={team} /> */}
 
-export default function TeamCards({ members }) {
+{/* <TeamCards members={team} /> */ }
+
+export default function TeamCards() {
+  const members = [
+    { id: 1, name: "John Doe", role: "Manager", image: "/john.jpg" },
+    { id: 2, name: "Sara Ahmed", role: "Sales Executive", image: "/sara.jpg" }
+  ];
   return (
     <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 p-6">
       {members.map((member) => (

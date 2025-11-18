@@ -1,9 +1,9 @@
 import { useEffect, useState } from "react";
 
 export default function Products() {
-    const [data, setData] = useState<any>(null);
+    const [data, setData] = useState < any > (null);
     const [loading, setLoading] = useState(true);
-    const [error, setError] = useState<string | null>(null);
+    const [error, setError] = useState < string | null > (null);
     useEffect(() => {
         const loadData = async () => {
             try {
@@ -11,7 +11,7 @@ export default function Products() {
                 if (!res.ok) throw new Error("Failed to fetch JSON");
                 const jsonData = await res.json();
                 setData(jsonData);
-            } catch (err: any) {
+            } catch (err) {
                 setError(err.message);
             } finally {
                 setLoading(false);

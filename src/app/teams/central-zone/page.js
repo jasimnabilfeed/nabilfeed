@@ -1,9 +1,9 @@
 import { useEffect, useState } from "react";
 
 export default function Products() {
-    const [data, setData] = useState < any > (null);
+    const [data, setData] = useState(null);
     const [loading, setLoading] = useState(true);
-    const [error, setError] = useState < string | null > (null);
+    const [error, setError] = useState(null);
     useEffect(() => {
         const loadData = async () => {
             try {

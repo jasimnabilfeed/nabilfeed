@@ -16,6 +16,9 @@ export default function TeamCards({ teamdata }) {
       <h2 className="text-lg font-semibold">
         {teamdata.NameinSoftware}
       </h2>
+      <h3>
+        {teamdata["Designation(Ranking)"]}
+      </h3>
     </div>
   );
 }
